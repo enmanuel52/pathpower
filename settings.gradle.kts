@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "pathPower"
 include(":app")
+include(":pathpower")
