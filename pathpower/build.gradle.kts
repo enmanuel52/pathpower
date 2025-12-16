@@ -61,7 +61,7 @@ afterEvaluate {
 
                 groupId = "com.github.enmanuel52"
                 artifactId = "pathpower"
-                version = "1.0.0-alpha1"
+                version = "1.0.0"
             }
         }
     }
